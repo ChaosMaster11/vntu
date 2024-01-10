@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "JonDou9000.TaskPlanner.DataAccess.Abstractions/1.0.0": {
+        "dependencies": {
+          "JonDou9000.TaskPlanner.Domain.Logic.": "1.0.0",
+          "JonDou9000.TaskPlanner.Domain.Models.": "1.0.0"
+        },
+        "runtime": {
+          "JonDou9000.TaskPlanner.DataAccess.Abstractions.dll": {}
+        }
+      },
+      "JonDou9000.TaskPlanner.Domain.Logic./1.0.0": {
+        "dependencies": {
+          "JonDou9000.TaskPlanner.Domain.Models.": "1.0.0"
+        },
+        "runtime": {
+          "JonDou9000.TaskPlanner.Domain.Logic..dll": {}
+        }
+      },
+      "JonDou9000.TaskPlanner.Domain.Models./1.0.0": {
+        "runtime": {
+          "JonDou9000.TaskPlanner.Domain.Models..dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JonDou9000.TaskPlanner.DataAccess.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JonDou9000.TaskPlanner.Domain.Logic./1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JonDou9000.TaskPlanner.Domain.Models./1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

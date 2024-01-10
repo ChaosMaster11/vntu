@@ -1,0 +1,17 @@
+C:\Users\Stetsula Maryan\source\repos\TaskPlanner\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.DataAccess.Abstractions\bin\Debug\net8.0\JonDou9000.TaskPlanner.DataAccess.Abstractions.deps.json
+C:\Users\Stetsula Maryan\source\repos\TaskPlanner\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.DataAccess.Abstractions\bin\Debug\net8.0\JonDou9000.TaskPlanner.DataAccess.Abstractions.dll
+C:\Users\Stetsula Maryan\source\repos\TaskPlanner\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.DataAccess.Abstractions\bin\Debug\net8.0\JonDou9000.TaskPlanner.DataAccess.Abstractions.pdb
+C:\Users\Stetsula Maryan\source\repos\TaskPlanner\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.DataAccess.Abstractions\bin\Debug\net8.0\JonDou9000.TaskPlanner.Domain.Models..dll
+C:\Users\Stetsula Maryan\source\repos\TaskPlanner\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.DataAccess.Abstractions\bin\Debug\net8.0\JonDou9000.TaskPlanner.Domain.Models..pdb
+C:\Users\Stetsula Maryan\source\repos\TaskPlanner\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\JonDou9000.TaskPlanner.DataAccess.Abstractions.csproj.AssemblyReference.cache
+C:\Users\Stetsula Maryan\source\repos\TaskPlanner\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\JonDou9000.TaskPlanner.DataAccess.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stetsula Maryan\source\repos\TaskPlanner\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\JonDou9000.TaskPlanner.DataAccess.Abstractions.AssemblyInfoInputs.cache
+C:\Users\Stetsula Maryan\source\repos\TaskPlanner\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\JonDou9000.TaskPlanner.DataAccess.Abstractions.AssemblyInfo.cs
+C:\Users\Stetsula Maryan\source\repos\TaskPlanner\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\JonDou9000.TaskPlanner.DataAccess.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\Stetsula Maryan\source\repos\TaskPlanner\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\JonDou9000.TaskPlanner.DataAccess.Abstractions.csproj.CopyComplete
+C:\Users\Stetsula Maryan\source\repos\TaskPlanner\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\JonDou9000.TaskPlanner.DataAccess.Abstractions.dll
+C:\Users\Stetsula Maryan\source\repos\TaskPlanner\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\refint\JonDou9000.TaskPlanner.DataAccess.Abstractions.dll
+C:\Users\Stetsula Maryan\source\repos\TaskPlanner\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\JonDou9000.TaskPlanner.DataAccess.Abstractions.pdb
+C:\Users\Stetsula Maryan\source\repos\TaskPlanner\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\ref\JonDou9000.TaskPlanner.DataAccess.Abstractions.dll
+C:\Users\Stetsula Maryan\source\repos\TaskPlanner\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.DataAccess.Abstractions\bin\Debug\net8.0\JonDou9000.TaskPlanner.Domain.Logic..dll
+C:\Users\Stetsula Maryan\source\repos\TaskPlanner\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.DataAccess.Abstractions\bin\Debug\net8.0\JonDou9000.TaskPlanner.Domain.Logic..pdb
