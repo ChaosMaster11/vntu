@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>JonDou9000.TaskPlanner.Domain.Logic_</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\JonDou9000.TaskPlanner.Domain.Models\JonDou9000.TaskPlanner.Domain.Models..csproj" />
+  </ItemGroup>
+
+</Project>
