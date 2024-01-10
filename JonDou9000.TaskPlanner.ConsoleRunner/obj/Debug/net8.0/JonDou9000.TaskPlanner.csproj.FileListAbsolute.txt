@@ -1,0 +1,4 @@
+C:\Users\Stetsula Maryan\source\repos\TaskPlanner\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.ConsoleRunner\obj\Debug\net8.0\JonDou9000.TaskPlanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stetsula Maryan\source\repos\TaskPlanner\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.ConsoleRunner\obj\Debug\net8.0\JonDou9000.TaskPlanner.AssemblyInfoInputs.cache
+C:\Users\Stetsula Maryan\source\repos\TaskPlanner\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.ConsoleRunner\obj\Debug\net8.0\JonDou9000.TaskPlanner.AssemblyInfo.cs
+C:\Users\Stetsula Maryan\source\repos\TaskPlanner\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.ConsoleRunner\obj\Debug\net8.0\JonDou9000.TaskPlanner.csproj.CoreCompileInputs.cache
